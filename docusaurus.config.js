@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Oufti Corp', // Usually your GitHub org/user name.
+  organizationName: 'Aimaak', // Usually your GitHub org/user name.
   projectName: 'aimak-doc', // Usually your repo name.
   trailingSlash: false,
 
